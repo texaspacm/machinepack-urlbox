@@ -5,7 +5,7 @@ module.exports = {
 
 
   description: 'Get\'s the URL from URLBOX.io to display the screen capture.',
-
+  moreInfoUrl: 'http://urlbox.com',
 
   extendedDescription: '',
 
@@ -65,7 +65,7 @@ module.exports = {
         example: false,
         description: 'Take a fresh screenshot instead of getting a cached version.',
         required: false
-      },
+      }
 
 
     },
